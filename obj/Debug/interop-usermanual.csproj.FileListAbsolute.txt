@@ -1,0 +1,7 @@
+C:\Users\a_shi\source\repos\interop-usermanual\bin\Debug\interop-usermanual.exe.config
+C:\Users\a_shi\source\repos\interop-usermanual\bin\Debug\interop-usermanual.exe
+C:\Users\a_shi\source\repos\interop-usermanual\bin\Debug\interop-usermanual.pdb
+C:\Users\a_shi\source\repos\interop-usermanual\obj\Debug\interop-usermanual.csproj.AssemblyReference.cache
+C:\Users\a_shi\source\repos\interop-usermanual\obj\Debug\interop-usermanual.csproj.CoreCompileInputs.cache
+C:\Users\a_shi\source\repos\interop-usermanual\obj\Debug\interop-usermanual.exe
+C:\Users\a_shi\source\repos\interop-usermanual\obj\Debug\interop-usermanual.pdb
