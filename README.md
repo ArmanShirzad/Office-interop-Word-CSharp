@@ -9,6 +9,7 @@ and 7 class that each create on of these elements:
 - *Footer*
 - *BulletList*
 - *Picture*
+- 
 Note: Codes are **Self-Document** and **all the tiny details and important tips are included in the comments 
 
 Enjoy!
