@@ -11,5 +11,6 @@ and 7 class that each create on of these elements:
 - *Picture*
 ....
 Note: Codes are **Self-Document** and **all the tiny details and important tips are included in the comments 
+Update: text class has been updated
 
 Enjoy!
